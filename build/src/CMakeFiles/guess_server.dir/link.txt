@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/guess_server.dir/server.c.o  -o guess_server  -lm 

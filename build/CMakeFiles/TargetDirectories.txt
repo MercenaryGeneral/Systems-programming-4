@@ -1,6 +1,0 @@
-/home/sa/Prk4/build/CMakeFiles/rebuild_cache.dir
-/home/sa/Prk4/build/CMakeFiles/edit_cache.dir
-/home/sa/Prk4/build/src/CMakeFiles/edit_cache.dir
-/home/sa/Prk4/build/src/CMakeFiles/Prk4_server.dir
-/home/sa/Prk4/build/src/CMakeFiles/rebuild_cache.dir
-/home/sa/Prk4/build/src/CMakeFiles/Prk4_client.dir

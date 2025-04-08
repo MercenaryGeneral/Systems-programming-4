@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Prk4_client.dir/client.c.o  -o Prk4_client  -lm 

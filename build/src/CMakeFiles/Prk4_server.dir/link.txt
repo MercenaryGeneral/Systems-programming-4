@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Prk4_server.dir/server.c.o  -o Prk4_server  -lm 
